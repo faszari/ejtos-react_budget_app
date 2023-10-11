@@ -16,6 +16,7 @@ const AllocationForm = (props) => {
                 return;
             }
 
+
         const expense = {
             name: name,
             cost: parseInt(cost),

@@ -36,3 +36,4 @@ const ExpenseItem = (props) => {
 };
 
 export default ExpenseItem;
+//function untuk increase allocation & delete
